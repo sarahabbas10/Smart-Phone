@@ -11,7 +11,7 @@ function ProdectsOutput({phone_name,image,brand,detail}){
        
           <div className="grid-item">
           
-                    <img src={image}  />
+                    <img className="imgProduct" src={image}  />
                     <p>Brand name: {brand}</p>
                     <p>{phone_name}</p>   
                     {/* <button onClick={onS}>detial</button> */}
