@@ -22,7 +22,7 @@ const [inputValue,setValue]=useState()
         <>   
           
 <input className="input1" type="text" onChange={onChange}  placeholder="Search.."/>
-<div className="grids">
+<div className="grids" >
   {Products.filter((element)=>{
        console.log("in iffifif");
       if(!inputValue){   

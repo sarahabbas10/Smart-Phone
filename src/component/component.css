@@ -1,39 +1,90 @@
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-  }
-.header1{
-    
-        position: absolute;
-        top: 50%;
-        left: 30%;
-        transform: translate(-50%, -50%);
-        font-size: 60px;
-      font-family: Optima, sans-serif;
 
-}
-.grids{
-    display: grid;
+    .container {
+      position: relative;
+      text-align: center;
+      color: white;
+     
+    }
+
+    .logo{
+      width: 100%;
+    }
+  .header1{
+      
+          position: absolute;
+          top: 40%;
+          left: 30%;
+          transform: translate(-50%, -50%);
+          font-size: 40px;
+        font-family: Optima, sans-serif;
   
-    grid-template-columns:auto auto auto;
+  }
+  .input1{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    margin-left:20%;
+    margin-top: 20px;
+}
+
+  .grids{
+    display: grid;
+    margin-right: 30%;
+    grid-template-columns:auto auto ;
     grid-gap: 10px;
     padding: 150px;
+
     }
+
+
+
     .grids> div {
-      border: 10px solid white;
-      /* padding-left: 20px ;
-      padding-right:20px ; */
-      padding: 50px;
-      font-size: 30px;
+   
+      padding: 60px;
+      font-size: 20px;
       text-align: center;
       background-color: rgb(219, 215, 175);
     }
+  
 
-  .input1{
-      width: 400px;
-      height: 40px;
-      font-size: 20px;
-  }
+
+  @media screen and (min-width: 800px) {
+    .container {
+        position: relative;
+        text-align: center;
+        color: white;
+      }
+    .header1{
+        
+            position: absolute;
+            top: 50%;
+            left: 30%;
+            transform: translate(-50%, -50%);
+            font-size: 60px;
+          font-family: Optima, sans-serif;
+    
+    }
+        .grids{
+ 
+          display: grid;
+          margin-left: 10%;
+          margin-right: 10%;
+          grid-template-columns:auto auto auto auto;
+          grid-gap: 10px;
+          padding: 150px;
+          }
+    
+      .input1{
+          width: 500px;
+          height: 60px;
+          font-size: 40px;
+          margin-left:0%;
+          margin-top: 0px;
+               
+        
+      }
+    
+    }
+    
 
 
