@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Smart-Phone/static/css/main.a3d0866b.chunk.css",
+    "main.css": "/Smart-Phone/static/css/main.4c1717a6.chunk.css",
     "main.js": "/Smart-Phone/static/js/main.59d5dd02.chunk.js",
     "main.js.map": "/Smart-Phone/static/js/main.59d5dd02.chunk.js.map",
     "runtime-main.js": "/Smart-Phone/static/js/runtime-main.ff00640a.js",
@@ -10,7 +10,7 @@
     "static/js/3.b0d73528.chunk.js": "/Smart-Phone/static/js/3.b0d73528.chunk.js",
     "static/js/3.b0d73528.chunk.js.map": "/Smart-Phone/static/js/3.b0d73528.chunk.js.map",
     "index.html": "/Smart-Phone/index.html",
-    "static/css/main.a3d0866b.chunk.css.map": "/Smart-Phone/static/css/main.a3d0866b.chunk.css.map",
+    "static/css/main.4c1717a6.chunk.css.map": "/Smart-Phone/static/css/main.4c1717a6.chunk.css.map",
     "static/js/2.a7709c66.chunk.js.LICENSE.txt": "/Smart-Phone/static/js/2.a7709c66.chunk.js.LICENSE.txt",
     "static/media/apple.9e1a5e39.jpg": "/Smart-Phone/static/media/apple.9e1a5e39.jpg",
     "static/media/google.fa8b7e81.jpg": "/Smart-Phone/static/media/google.fa8b7e81.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.ff00640a.js",
     "static/js/2.a7709c66.chunk.js",
-    "static/css/main.a3d0866b.chunk.css",
+    "static/css/main.4c1717a6.chunk.css",
     "static/js/main.59d5dd02.chunk.js"
   ]
 }
