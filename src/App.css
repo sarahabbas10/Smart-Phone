@@ -25,11 +25,6 @@
       margin-left: 0px;
     }
 
-    /* .apple:hover  ,.google:hover,.sony:hover,.microsft:hover,.samsung:hover,.huawei:hover{
-      width: 250px;
-      height: 160px;
-      margin-left: 0px;
-    } */
 
 
     .grids{
@@ -69,34 +64,12 @@
     padding:20px ;
   }
   
-  .apple{
-    width: 450px;
-    height: 350px;
+  .apple,.google,.sony,.microsft,.samsung,.huawei{
+    width: 400px;
+    height: 250px;
+    margin-left: 0px;
   }
-  .google{
-    width: 450px;
-    height: 350px;
-  }
-  
-  .sony{
-    width: 450px;
-    height: 350px;
-  }
-  
-  .microsft{
-    width: 450px;
-    height: 350px;
-  }
-  .samsung{
-    width: 450px;
-    height: 350px;
-  }
-  
-  .huawei{
-    width: 450px;
-    height: 350px;
-  }
-  
+
   
   .grid{
     display: grid;
