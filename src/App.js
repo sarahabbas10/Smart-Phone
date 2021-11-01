@@ -94,32 +94,32 @@ useEffect(() => {
       <div className="grid">
 
       <div className="grid-item">
-      <img className="apple" src={apple} onClick={getApple}/><br/>
+      <img className="apple" src={apple} type="button" onClick={getApple}/><br/>
       <button className="btn" onClick={getApple}> Apple products</button>
       </div>
       
       <div className="grid-item">
-      <img className="samsung" src={samsung} onClick={getApple}/>
+      <img className="samsung" src={samsung} type="button" onClick={getApple}/><br/>
       <button className="btn" onClick={getSamsung}> Samsung products</button>
       </div>
 
       <div className="grid-item">
-      <img className="google" src={google} onClick={getApple}/>
+      <img className="google" src={google} type="button" onClick={getApple}/><br/>
       <button className="btn" onClick={getGoogle}> Google products </button>
       </div>
 
       <div className="grid-item">
-      <img className="sony" src={sony} onClick={getApple}/>
+      <img className="sony" src={sony} type="button" onClick={getApple}/><br/>
       <button className="btn" onClick={getSony}> Song products </button>
       </div>
 
       <div className="grid-item">
-      <img className="huawei" src={huawei} onClick={getApple}/>
+      <img className="huawei" src={huawei}type="button"  onClick={getApple}/><br/>
       <button className="btn" onClick={getHuawei}> Huawei products</button>
       </div>
 
       <div className="grid-item">
-      <img className="microsft" src={microsft} onClick={getApple}/>
+      <img className="microsft" src={microsft}type="button"  onClick={getApple}/><br/>
       <button  className="btn" onClick={getMicrosoft}> Microsoft products </button>
       </div>
 
