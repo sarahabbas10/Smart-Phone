@@ -67,7 +67,7 @@ const getSony=()=>{
 
 const getMicrosoft=()=>{
   axios
-  .get(" http://api-mobilespecs.azharimm.site/v2/brands/microsoft-phones-64")
+  .get(" https://api-mobilespecs.azharimm.site/v2/brands/microsoft-phones-64")
  
   .then((response) => setProducts(response.data.data.phones))
     .catch((error) => console.log(error));

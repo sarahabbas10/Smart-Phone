@@ -38,6 +38,8 @@
     .grids> div {
    
       padding: 60px;
+      padding-left: 60px;
+      padding-right: 60px;
       font-size: 20px;
       text-align: center;
       background-color: rgb(219, 215, 175);
@@ -69,6 +71,15 @@
           grid-template-columns:auto auto auto auto;
           grid-gap: 10px;
           padding: 150px;
+          }
+          .grids> div {
+   
+            padding: 60px;
+            padding-left: 60px;
+            padding-right: 60px;
+            font-size: 20px;
+            text-align: center;
+            background-color: rgb(219, 215, 175);
           }
     
       .input1{
