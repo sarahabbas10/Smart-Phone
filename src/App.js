@@ -99,27 +99,27 @@ useEffect(() => {
       </div>
       
       <div className="grid-item">
-      <img className="samsung" src={samsung} type="button" onClick={getApple}/><br/>
+      <img className="samsung" src={samsung} type="button"  onClick={getSamsung}/><br/>
       <button className="btn" onClick={getSamsung}> Samsung products</button>
       </div>
 
       <div className="grid-item">
-      <img className="google" src={google} type="button" onClick={getApple}/><br/>
+      <img className="google" src={google} type="button" onClick={getGoogle}/><br/>
       <button className="btn" onClick={getGoogle}> Google products </button>
       </div>
 
       <div className="grid-item">
-      <img className="sony" src={sony} type="button" onClick={getApple}/><br/>
+      <img className="sony" src={sony} type="button" onClick={getSony}/><br/>
       <button className="btn" onClick={getSony}> Song products </button>
       </div>
 
       <div className="grid-item">
-      <img className="huawei" src={huawei}type="button"  onClick={getApple}/><br/>
+      <img className="huawei" src={huawei}type="button" nClick={getHuawei}/><br/>
       <button className="btn" onClick={getHuawei}> Huawei products</button>
       </div>
 
       <div className="grid-item">
-      <img className="microsft" src={microsft}type="button"  onClick={getApple}/><br/>
+      <img className="microsft" src={microsft}type="button"  onClick={getMicrosoft}/><br/>
       <button  className="btn" onClick={getMicrosoft}> Microsoft products </button>
       </div>
 
