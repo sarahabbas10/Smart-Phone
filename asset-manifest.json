@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/Smart-Phone/static/css/main.a617e044.chunk.css",
-    "main.js": "/Smart-Phone/static/js/main.231f20e0.chunk.js",
-    "main.js.map": "/Smart-Phone/static/js/main.231f20e0.chunk.js.map",
-    "runtime-main.js": "/Smart-Phone/static/js/runtime-main.9471e230.js",
-    "runtime-main.js.map": "/Smart-Phone/static/js/runtime-main.9471e230.js.map",
-    "static/js/2.5b0a658f.chunk.js": "/Smart-Phone/static/js/2.5b0a658f.chunk.js",
-    "static/js/2.5b0a658f.chunk.js.map": "/Smart-Phone/static/js/2.5b0a658f.chunk.js.map",
-    "static/js/3.95764f17.chunk.js": "/Smart-Phone/static/js/3.95764f17.chunk.js",
-    "static/js/3.95764f17.chunk.js.map": "/Smart-Phone/static/js/3.95764f17.chunk.js.map",
+    "main.css": "/Smart-Phone/static/css/main.eeb26c03.chunk.css",
+    "main.js": "/Smart-Phone/static/js/main.87b8412d.chunk.js",
+    "main.js.map": "/Smart-Phone/static/js/main.87b8412d.chunk.js.map",
+    "runtime-main.js": "/Smart-Phone/static/js/runtime-main.ff00640a.js",
+    "runtime-main.js.map": "/Smart-Phone/static/js/runtime-main.ff00640a.js.map",
+    "static/js/2.a7709c66.chunk.js": "/Smart-Phone/static/js/2.a7709c66.chunk.js",
+    "static/js/2.a7709c66.chunk.js.map": "/Smart-Phone/static/js/2.a7709c66.chunk.js.map",
+    "static/js/3.b0d73528.chunk.js": "/Smart-Phone/static/js/3.b0d73528.chunk.js",
+    "static/js/3.b0d73528.chunk.js.map": "/Smart-Phone/static/js/3.b0d73528.chunk.js.map",
     "index.html": "/Smart-Phone/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Smart-Phone/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5b0a658f.chunk.js.LICENSE.txt": "/Smart-Phone/static/js/2.5b0a658f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Smart-Phone/static/media/logo.6ce24c58.svg"
+    "static/css/main.eeb26c03.chunk.css.map": "/Smart-Phone/static/css/main.eeb26c03.chunk.css.map",
+    "static/js/2.a7709c66.chunk.js.LICENSE.txt": "/Smart-Phone/static/js/2.a7709c66.chunk.js.LICENSE.txt",
+    "static/media/apple.9e1a5e39.jpg": "/Smart-Phone/static/media/apple.9e1a5e39.jpg",
+    "static/media/google.fa8b7e81.jpg": "/Smart-Phone/static/media/google.fa8b7e81.jpg",
+    "static/media/huawei.3104105b.jpg": "/Smart-Phone/static/media/huawei.3104105b.jpg",
+    "static/media/logo.a70962a1.jpg": "/Smart-Phone/static/media/logo.a70962a1.jpg",
+    "static/media/microsoft.d52b21fc.jpg": "/Smart-Phone/static/media/microsoft.d52b21fc.jpg",
+    "static/media/samsung.792497cd.jpg": "/Smart-Phone/static/media/samsung.792497cd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9471e230.js",
-    "static/js/2.5b0a658f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.231f20e0.chunk.js"
+    "static/js/runtime-main.ff00640a.js",
+    "static/js/2.a7709c66.chunk.js",
+    "static/css/main.eeb26c03.chunk.css",
+    "static/js/main.87b8412d.chunk.js"
   ]
 }
