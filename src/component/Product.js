@@ -9,13 +9,10 @@ const [inputValue,setValue]=useState()
     const onChange=(e)=>{
      inputVal=e.target.value
      console.log(inputVal);
-     setValue(inputVal)
+     setValue(inputVal.toLowerCase())
    }
-   let b=false
-   let i
-   const searchProduct=()=>{
-    
-   }
+
+ 
  console.log(Products) 
 
     return(
@@ -25,7 +22,6 @@ const [inputValue,setValue]=useState()
 
 <div className="grids" >
   {Products.filter((element)=>{
-       console.log("in iffifif");
       if(!inputValue){   
           return  <ProdectsOutput Products={Products}phone_name={element.phone_name} image={element.image} brand={element.brand} detail={element.detail}/> 
       }else if(element.phone_name.toLowerCase().includes(inputValue)){
